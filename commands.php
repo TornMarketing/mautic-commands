@@ -1,5 +1,7 @@
 <?php
 /**
+
+* Install in home directory, change secret and update htaccess to include commands in allowed php
  * Execute Mautic console commands.
  *
  * This script can be used in environments where you do not have SSH access
